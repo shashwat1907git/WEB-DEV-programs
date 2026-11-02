@@ -1,1 +1,1 @@
-These are my College HTML 1st semester programs.
+These are my College Web Designing-HTML 1st semester Lab Practicals.
