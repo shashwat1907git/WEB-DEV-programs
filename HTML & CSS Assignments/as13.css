@@ -1,0 +1,15 @@
+table {
+    font-size: x-large;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid gray;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle; /* important */
+}
+div{
+    margin-left:85px;
+    font-size: medium;
+}
